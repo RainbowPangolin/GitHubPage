@@ -1,4 +1,4 @@
-![This is a golden slime](.\SlimeRancher.jpg)
+![This is a golden slime](./docs/SlimeRancher.jpg)
 
 *Placeholder image until I can find a better picture of myself*
 
@@ -8,7 +8,7 @@
 
 
 <!--- Okay, this is a comment, you shouldn't see this! -->
-![This is a gary](./gary.jpg)
+![This is a gary](./docs/gary.jpg)
 
 ```
 meow, i'm *gary*
@@ -22,7 +22,7 @@ I used [VSCode](https://code.visualstudio.com/) to make this page.
 
 ## My Projects
 
-For this assignment, you can find all the [screenshots here](./../screenshots), and the markdown source + images [here](./).
+For this assignment, you can find all the [screenshots here](./../screenshots).
 
 Here are some projects you can find on my GitHub
 
@@ -36,5 +36,5 @@ And here they are in reverse order, and now numbered
 
 Page 
 - [x] Create this document
-- [ ] Post to GitHub 
+- [ ] Post to GitHub Pages
 - [ ] \(Optional) Make sure emoji's render :tada:
