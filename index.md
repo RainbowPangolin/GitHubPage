@@ -36,5 +36,5 @@ And here they are in reverse order, and now numbered
 
 Page 
 - [x] Create this document
-- [ ] Post to GitHub Pages
+- [x] Post to GitHub Pages
 - [ ] \(Optional) Make sure emoji's render :tada:
