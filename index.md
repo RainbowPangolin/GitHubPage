@@ -1,6 +1,4 @@
-![This is a golden slime](./docs/SlimeRancher.jpg)
-
-*Placeholder image until I can find a better picture of myself*
+![This is my face](https://media-exp1.licdn.com/dms/image/C5603AQG_ffIbuEVbfA/profile-displayphoto-shrink_200_200/0/1588130811783?e=1638403200&v=beta&t=MYSC8ezGaBliaJNvkXX38Bun8U5oiUsIfx0pMpxzBsc)
 
 # About Myself
 
