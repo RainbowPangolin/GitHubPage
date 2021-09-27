@@ -12,7 +12,7 @@
 meow, i'm *gary*
 ```
 
->That's something Gary would say :shrug:
+>That's something Gary would *probably* say
 
 I used [VSCode](https://code.visualstudio.com/) to make this page.
 
